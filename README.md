@@ -1,6 +1,6 @@
 # 🎓 TISS Analytics & Sustainability Studies – Unofficial Student Guide
 
-Welcome to the **Unofficial Survival Kit** for the MA/MSc in *Analytics and Sustainability Studies* at **Tata Institute of Social Sciences (TISS), Mumbai**.
+Welcome to the **Unofficial Survival Kit** for the Bachelor of Science in *Analytics and Sustainability Studies* at **Tata Institute of Social Sciences (TISS), Mumbai**.
 
 This repository is built **by students, for students** — especially for freshers trying to make sense of everything in the first few weeks. Whether you're figuring out which laptop to buy, how to install R and Python, or wondering what to expect in your first semester, this guide has you covered.
 
